@@ -1,2 +1,2 @@
-# Study_Programmers
+# Study
 Coding Test_
