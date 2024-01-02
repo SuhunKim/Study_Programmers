@@ -16,7 +16,7 @@ namespace ConsoleApp2
 				int iCase = Convert.ToInt32(sCase);
 
 				string sPrice = Console.ReadLine();
-				int[] iPrice = sPrice.Split(' ');
+				int[] iPrice = sPrice.Split(' ');	//C++ 버전으로 적용 필요.
 			}
 
 
